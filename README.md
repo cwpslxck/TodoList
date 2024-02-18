@@ -8,15 +8,17 @@ i write this app in Farsi language and i hope i can add english later. o(≧ 口
 
 I create this [React.js](https://react.dev) app with [Vite](https://vitejs.dev) library as a part of my [Portfolio](https://github.com/cwpslxck/Portfolio)
 
-App has a input that you can write your note
-then by pressing plus button it add a "id" , "text" , "completed" as a Task to other Task.
+App has as input that you can write your note
+then by pressing plus button it add a "id" , "text" , "completed" as a Task to other Tasks.
 
 id is a number just for identifing, text is a string that is what you type in that input.
 and "complete" is a bool that if it was true it means note is Done.
 
-by clicking on note it change complete to true & false.
-by clicking on Delete button its remove the note from your list.
-by clicking on Download button you can save a screenshot to your gallery as a .png file via [html-to-image](https://www.npmjs.com/package/html-to-image) react library.
+By clicking on note it change complete to true & false.
+
+By clicking on Delete button its remove the note from your list.
+
+By clicking on Download button you can save a screenshot to your gallery as a .png file via [html-to-image](https://www.npmjs.com/package/html-to-image) react library.
 
 ## AAAAA
 
